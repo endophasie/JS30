@@ -1,4 +1,4 @@
-#JS Drum Kit
+# JS Drum Kit
 
-##Improvements
+## Improvements
 Added click handler for mouse/trackpad using.
